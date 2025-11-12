@@ -11,10 +11,10 @@
     拉取模型：安裝完成後，打開您的終端機（Terminal 或命令提示字元）並執行以下兩個命令，以下載專案所需的模型：
     Bash
 
-ollama pull llama3:8b
+
 
 Bash
-
+    ollama pull llama3:8b
     ollama pull nomic-embed-text
 
     (請確保 Ollama 應用程式在後台保持運行)
@@ -28,8 +28,8 @@ Bash
     建立虛擬環境（建議）：
     Bash
 
-python -m venv venv
-source venv/bin/activate  # macOS/Linux
+    python -m venv venv
+    source venv/bin/activate  # macOS/Linux
 
-streamlit run app.py 
+    streamlit run app.py 
 完成：您的瀏覽器將自動打開一個新分頁，顯示本地運行的 Web 應用程式。
