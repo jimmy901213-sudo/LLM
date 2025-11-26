@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+langchain-ollama
+chromadb
+sentence-transformers
+pydantic
+flask
+rapidfuzz
