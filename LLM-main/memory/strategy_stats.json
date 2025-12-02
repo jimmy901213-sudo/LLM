@@ -1,0 +1,29 @@
+{
+  "concise": {
+    "total_runs": 4,
+    "successful_runs": 4,
+    "scores": [
+      8.5,
+      7.5,
+      8.0,
+      8.0
+    ],
+    "weight": 1.6
+  },
+  "detailed": {
+    "total_runs": 1,
+    "successful_runs": 1,
+    "scores": [
+      9.2
+    ],
+    "weight": 1.8399999999999999
+  },
+  "seo_focused": {
+    "total_runs": 1,
+    "successful_runs": 1,
+    "scores": [
+      8.8
+    ],
+    "weight": 1.7600000000000002
+  }
+}

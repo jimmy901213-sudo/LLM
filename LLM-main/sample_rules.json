@@ -1,0 +1,43 @@
+[
+  {
+    "rule_text": "標題應包含品牌名稱 + 核心功能 + 獨特賣點",
+    "category": "SEO",
+    "rule_type": "title",
+    "priority": 9,
+    "tags": [
+      "title",
+      "seo",
+      "critical"
+    ]
+  },
+  {
+    "rule_text": "描述段落應從用戶視角說明產品如何解決問題",
+    "category": "copywriting",
+    "rule_type": "description",
+    "priority": 8,
+    "tags": [
+      "copywriting",
+      "user-focused"
+    ]
+  },
+  {
+    "rule_text": "功能列表應按重要性排序，最吸引人的功能放首位",
+    "category": "copywriting",
+    "rule_type": "features",
+    "priority": 7,
+    "tags": [
+      "copywriting",
+      "layout"
+    ]
+  },
+  {
+    "rule_text": "Q&A 段落應針對常見購買疑慮（價格、品質、售後）",
+    "category": "E-E-A-T",
+    "rule_type": "qa",
+    "priority": 8,
+    "tags": [
+      "qa",
+      "trust"
+    ]
+  }
+]

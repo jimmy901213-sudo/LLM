@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-11-26T19:41:01.540141",
+    "action": "add_product",
+    "product_name": "Y-200 耳機",
+    "doc_id": "592fd90a-331a-4e4d-9399-e75e2efee6dc",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-11-26T19:41:01.583535",
+    "action": "add_rule",
+    "category": "copywriting",
+    "status": "failed",
+    "error": "Expected metadata value to be a str, int, float, bool, SparseVector, or None, got ['copywriting', 'persuasion'] which is a list in upsert.\n\nTry filtering complex metadata from the document using langchain_community.vectorstores.utils.filter_complex_metadata."
+  },
+  {
+    "timestamp": "2025-11-26T19:41:25.313050",
+    "action": "add_product",
+    "product_name": "Y-200 耳機",
+    "doc_id": "e4abd0f7-e6f8-4271-a6ad-37bd025d4876",
+    "status": "success"
+  },
+  {
+    "timestamp": "2025-11-26T19:41:25.369831",
+    "action": "add_rule",
+    "category": "copywriting",
+    "status": "failed",
+    "error": "Expected metadata value to be a str, int, float, bool, SparseVector, or None, got ['copywriting', 'persuasion'] which is a list in upsert.\n\nTry filtering complex metadata from the document using langchain_community.vectorstores.utils.filter_complex_metadata."
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "id": "06aa551d",
+    "timestamp": "2025-11-26T19:33:05.495322",
+    "query": "X-100 音箱",
+    "product_name": "X-100 音箱",
+    "strategy": "detailed",
+    "result": {
+      "product_name": "X-100 音箱",
+      "catchy_title": "沉浸式音樂體驗",
+      "experience_paragraph": "使用 X-100 後，我發現音質提升顯著",
+      "features_bullets": [
+        "高保真音質",
+        "便攜設計",
+        "10小時續航"
+      ],
+      "semantic_tags": [
+        "音樂",
+        "戶外"
+      ],
+      "qa_pairs": [
+        {
+          "q": "電池續航？",
+          "a": "10小時"
+        }
+      ]
+    },
+    "user_score": 8.5,
+    "notes": ""
+  },
+  {
+    "id": "f827500d",
+    "timestamp": "2025-11-26T19:33:24.073022",
+    "query": "X-100 音箱",
+    "product_name": "X-100 音箱",
+    "strategy": "detailed",
+    "result": {
+      "product_name": "X-100 音箱",
+      "catchy_title": "沉浸式音樂體驗",
+      "experience_paragraph": "使用 X-100 後，我發現...",
+      "features_bullets": [
+        "高保真音質",
+        "便攜設計",
+        "10小時續航"
+      ],
+      "semantic_tags": [
+        "音樂",
+        "戶外",
+        "科技"
+      ],
+      "qa_pairs": [
+        {
+          "q": "電池續航多久？",
+          "a": "10小時"
+        }
+      ]
+    },
+    "user_score": 9,
+    "notes": "很好的一次生成"
+  },
+  {
+    "id": "77f45df3",
+    "timestamp": "2025-11-26T19:49:24.493167",
+    "query": "x-100",
+    "product_name": "便攜式藍牙音箱 X-100",
+    "strategy": "concise",
+    "result": {
+      "product_name": "便攜式藍牙音箱 X-100",
+      "catchy_title": "X-100: Your Outdoor Music Companion",
+      "experience_paragraph": "I recently took my X-100 on a camping trip and was blown away by its performance. The IPX7 waterproof design allowed me to enjoy music near the lake without worrying about water damage. With 20 hours of battery life, I could listen to my favorite tunes all day long. And when it got dark, the X-100's built-in microphone let me jam out with friends around the campfire.",
+      "features_bullets": [
+        "IPX7 waterproof design",
+        "20-hour battery life",
+        "Bluetooth 5.0 connectivity",
+        "Built-in microphone for hands-free calls and voice commands"
+      ],
+      "semantic_tags": [
+        "戶外",
+        "派對",
+        "音樂"
+      ],
+      "qa_pairs": [
+        {
+          "q": "Is the X-100 waterproof?",
+          "a": "Yes, it has an IPX7 rating, making it perfect for outdoor use."
+        },
+        {
+          "q": "How long does the battery last?",
+          "a": "The X-100 has a 20-hour battery life, so you can enjoy music all day without recharging."
+        },
+        {
+          "q": "Can I make hands-free calls with the X-100?",
+          "a": "Yes, the built-in microphone allows for hands-free calls and voice commands."
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  },
+  {
+    "id": "a580d456",
+    "timestamp": "2025-11-26T19:56:33.199897",
+    "query": "x-100",
+    "product_name": "便攜式藍牙音箱 X-100",
+    "strategy": "concise",
+    "result": {
+      "product_name": "便攜式藍牙音箱 X-100",
+      "catchy_title": "X-100: Your Outdoor Music Companion",
+      "experience_paragraph": "I recently took my X-100 on a camping trip and was blown away by its performance. The sound quality is crystal clear, and the bass is strong. I used it to play music around the campsite, and everyone loved it. Plus, the IPX7 waterproof rating gave me peace of mind in case it got wet. It's perfect for outdoor activities like hiking or swimming.",
+      "features_bullets": [
+        "IPX7 waterproof rating",
+        "20-hour battery life",
+        "Bluetooth 5.0 connectivity",
+        "Built-in microphone",
+        "Stereo sound pairing"
+      ],
+      "semantic_tags": [
+        "戶外",
+        "派對",
+        "音樂",
+        "音質"
+      ],
+      "qa_pairs": [
+        {
+          "q": "Is the X-100 waterproof?",
+          "a": "Yes, it has an IPX7 rating, making it perfect for outdoor use."
+        },
+        {
+          "q": "How long does the battery last?",
+          "a": "Up to 20 hours on a single charge."
+        },
+        {
+          "q": "Can I pair multiple devices with the X-100?",
+          "a": "Yes, you can pair up to two devices via Bluetooth 5.0."
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  },
+  {
+    "id": "388fb56c",
+    "timestamp": "2025-11-26T19:56:43.852963",
+    "query": "未知",
+    "product_name": "專業級降噪耳機 Z-500",
+    "strategy": "concise",
+    "result": {
+      "product_name": "專業級降噪耳機 Z-500",
+      "catchy_title": "Z-500: My Go-To Noise-Cancelling Earbuds for Long Flights and Open Offices",
+      "experience_paragraph": "As a frequent flyer, I was tired of being distracted by the constant noise on long flights. That's when I discovered the Z-500 earbuds - they've been my game-changer ever since! With their adaptive active noise cancellation, 40mm drivers, and 30-hour playback time, I can finally focus on my work or enjoy some peace during takeoff and landing.",
+      "features_bullets": [
+        "Adaptive active noise cancellation for optimal sound quality",
+        "40mm drivers for deep bass and clear highs",
+        "Up to 30 hours of playback time on a single charge"
+      ],
+      "semantic_tags": [
+        "frequent flyer",
+        "long flights",
+        "open offices",
+        "noise cancellation",
+        "audio quality"
+      ],
+      "qa_pairs": [
+        {
+          "q": "What makes the Z-500 earbuds so special?",
+          "a": "Their adaptive active noise cancellation and 40mm drivers make them perfect for long flights and open offices."
+        },
+        {
+          "q": "How long do the earbuds last on a single charge?",
+          "a": "Up to 30 hours, making them ideal for extended use"
+        },
+        {
+          "q": "Are the earbuds comfortable to wear?",
+          "a": "Yes, they come with a soft ear tip and an adjustable headband for a snug fit"
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  },
+  {
+    "id": "1a1819c1",
+    "timestamp": "2025-11-26T19:57:31.356970",
+    "query": "音箱",
+    "product_name": "專業級降噪耳機 Z-500",
+    "strategy": "concise",
+    "result": {
+      "product_name": "專業級降噪耳機 Z-500",
+      "catchy_title": "Z-500: My Go-To Noise-Cancelling Earbuds for Long Flights and Open Offices",
+      "experience_paragraph": "As a frequent flyer, I was tired of dealing with background noise on long flights. That's when I discovered the Z-500 earbuds. With their adaptive active noise cancellation feature, I can finally focus on my work or enjoy my favorite shows without distractions. The 40mm drivers deliver rich and clear sound, while the 30-hour battery life ensures that I don't run out of juice during long trips.",
+      "features_bullets": [
+        "Adaptive active noise cancellation for optimal listening experience",
+        "40mm drivers for rich and clear sound",
+        "30-hour battery life for extended use"
+      ],
+      "semantic_tags": [
+        "noise-cancelling earbuds",
+        "long flights",
+        "open offices",
+        "audio quality",
+        "portability"
+      ],
+      "qa_pairs": [
+        {
+          "q": "What makes the Z-500 earbuds so effective at noise cancellation?",
+          "a": "The adaptive active noise cancellation feature, which adjusts to different environments and sounds."
+        },
+        {
+          "q": "How long do the earbuds last on a single charge?",
+          "a": "Up to 30 hours, making them perfect for long flights or workdays."
+        },
+        {
+          "q": "Are the earbuds comfortable to wear?",
+          "a": "Yes, they are designed with comfort in mind and come with a soft ear tip design."
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  },
+  {
+    "id": "7771af43",
+    "timestamp": "2025-11-26T20:11:32.612575",
+    "query": "x-100",
+    "product_name": "便攜式藍牙音箱 X-100",
+    "strategy": "concise",
+    "result": {
+      "product_name": "便攜式藍牙音箱 X-100",
+      "catchy_title": "X-100: Your Outdoor Music Companion",
+      "experience_paragraph": "I recently took my X-100 on a camping trip and was blown away by its performance. The sound quality is crystal clear, and the bass is strong. I used it to play some tunes around the campfire, and everyone loved it. Plus, the IPX7 waterproof rating gave me peace of mind in case things got messy. It's perfect for outdoor activities like hiking or swimming.",
+      "features_bullets": [
+        "IPX7 waterproof rating",
+        "20-hour battery life",
+        "Bluetooth 5.0 connectivity",
+        "Built-in microphone",
+        "Stereo sound pairing"
+      ],
+      "semantic_tags": [
+        "戶外",
+        "派對",
+        "音樂",
+        "音質"
+      ],
+      "qa_pairs": [
+        {
+          "q": "Is the X-100 suitable for outdoor use?",
+          "a": "Yes, it's designed to withstand the elements with its IPX7 waterproof rating."
+        },
+        {
+          "q": "How long does the battery last?",
+          "a": "Up to 20 hours on a single charge."
+        },
+        {
+          "q": "Can I pair multiple devices?",
+          "a": "No, but you can pair two devices for stereo sound."
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  },
+  {
+    "id": "a244ede1",
+    "timestamp": "2025-11-26T20:19:44.622568",
+    "query": "X-100",
+    "product_name": "便攜式藍牙音箱 X-100",
+    "strategy": "concise",
+    "result": {
+      "product_name": "便攜式藍牙音箱 X-100",
+      "catchy_title": "X-100: Your Ultimate Outdoor Sound Companion",
+      "experience_paragraph": "I'm an outdoor enthusiast, and I've always struggled to find a portable speaker that can keep up with my adventures. That's why I was thrilled when I discovered the X-100. With its IPX7 waterproof design, 20-hour battery life, and Bluetooth 5.0 connectivity, this little powerhouse has been my go-to companion for camping trips, beach days, and pool parties. And let me tell you, it's a game-changer. The sound quality is crystal clear, with deep bass that'll get your party started. Whether I'm hiking through the woods or lounging by the lake, the X-100 always delivers.",
+      "features_bullets": [
+        "IPX7 waterproof design",
+        "20-hour battery life",
+        "Bluetooth 5.0 connectivity",
+        "Built-in microphone for hands-free calls"
+      ],
+      "semantic_tags": [
+        "戶外",
+        "派對",
+        "音質",
+        "便攜性"
+      ],
+      "qa_pairs": [
+        {
+          "q": "What makes the X-100 so special?",
+          "a": "Its IPX7 waterproof design and 20-hour battery life make it perfect for outdoor adventures."
+        },
+        {
+          "q": "Can I use the X-100 for hands-free calls?",
+          "a": "Yes, with its built-in microphone, you can take hands-free calls or use voice assistants like Siri or Google Assistant."
+        },
+        {
+          "q": "How long does the X-100's battery last?",
+          "a": "The X-100 has a 20-hour battery life, so you can enjoy your music all day without worrying about running out of power."
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  },
+  {
+    "id": "4cd67948",
+    "timestamp": "2025-11-26T20:20:23.292382",
+    "query": "X-100音箱",
+    "product_name": "便攜式藍牙音箱 X-100",
+    "strategy": "concise",
+    "result": {
+      "product_name": "便攜式藍牙音箱 X-100",
+      "catchy_title": "X-100: 20小時續航的戶外音樂好幫手",
+      "experience_paragraph": "我是一個 outdoor enthusiast，我總是帶著我的 X-100 音箱一起露營、野餐或派對。這款音箱真的太強了！它可以連接藍牙，讓我和朋友們一起享受音樂的時刻。我也喜歡它的防水設計，可以在雨天或泳池邊使用。X-100 讓我的戶外生活更加輕鬆和愉快。",
+      "features_bullets": [
+        "IPX7 防水",
+        "20小時電池續航",
+        "藍牙 5.0",
+        "內置麥克風",
+        "立體聲配對"
+      ],
+      "semantic_tags": [
+        "戶外",
+        "派對",
+        "音樂"
+      ],
+      "qa_pairs": [
+        {
+          "q": "X-100 音箱可以用在哪些場合?",
+          "a": "X-100 可以用在戶外露營、野餐、派對等場合。"
+        },
+        {
+          "q": "X-100 音箱的續航時間是多少?",
+          "a": "X-100 音箱的電池續航時間為 20 小時。"
+        },
+        {
+          "q": "X-100 音箱是否支持藍牙連接?",
+          "a": "是的，X-100 音箱支持藍牙 5.0 連接。"
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  },
+  {
+    "id": "f46ab991",
+    "timestamp": "2025-11-26T20:21:27.710275",
+    "query": "Z-500",
+    "product_name": "專業級降噪耳機 Z-500",
+    "strategy": "concise",
+    "result": {
+      "product_name": "專業級降噪耳機 Z-500",
+      "catchy_title": "沉浸在音樂的世界：Z-500降噪耳機",
+      "experience_paragraph": "我是一名飛行常客，總是需要一個能夠抵擋外部噪音的耳機。Z-500 就是我的選擇。我們一起出席了許多次的商務會議和開放式辦公室，Z-500 的降噪功能讓我能夠專心聽音樂或進行電話會議，而不再受到外部干擾的影響。",
+      "features_bullets": [
+        "自適應主動降噪",
+        "40mm 驅動單元",
+        "30小時播放",
+        "附帶硬殼收納盒",
+        "多點連接"
+      ],
+      "semantic_tags": [
+        "戶外",
+        "派對",
+        "音質"
+      ],
+      "qa_pairs": [
+        {
+          "q": "Z-500 的降噪功能如何?",
+          "a": "Z-500 具有自適應主動降噪功能，能夠根據環境噪音自動調整降噪效果。"
+        },
+        {
+          "q": "Z-500 的音質如何?",
+          "a": "Z-500 具有 40mm 驅動單元，提供了優秀的音質和深度。"
+        },
+        {
+          "q": "Z-500 的電池壽命如何?",
+          "a": "Z-500 的電池壽命為 30 小時，足夠滿足長時間使用需求。"
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  },
+  {
+    "id": "77991096",
+    "timestamp": "2025-11-26T20:25:10.820242",
+    "query": "Z-500",
+    "product_name": "專業級降噪耳機 Z-500",
+    "strategy": "concise",
+    "result": {
+      "product_name": "專業級降噪耳機 Z-500",
+      "catchy_title": "沉浸在音樂的世界：Z-500降噪耳機",
+      "experience_paragraph": "我是一名飛行常客，總是需要一個好的降噪耳機來享受音樂。我之前使用的是一對普通的耳機，但它們無法抵擋外部噪音。直到我遇到了 Z-500，我的聽覺體驗才真正改變了。這對耳機能夠自適應主動降噪，讓我在飛行中享受音樂的同時，也不會受到外部噪音的干擾。",
+      "features_bullets": [
+        "自適應主動降噪",
+        "40mm 驅動單元",
+        "30小時播放",
+        "附帶硬殼收納盒",
+        "多點連接"
+      ],
+      "semantic_tags": [
+        "戶外",
+        "派對",
+        "音質"
+      ],
+      "qa_pairs": [
+        {
+          "q": "Z-500 的降噪效果如何?",
+          "a": "Z-500 具有自適應主動降噪功能，能夠有效地減少外部噪音的干擾，讓您享受更加沉浸的聽覺體驗。"
+        },
+        {
+          "q": "這對耳機是否適合戶外使用?",
+          "a": "是的！Z-500 具有防水設計，可以在戶外環境中使用，不會受到雨水或其他液體的影響。"
+        },
+        {
+          "q": "如何充電 Z-500?",
+          "a": "Z-500 可以通過 USB-C 接口進行充電，充電時間約為 2 小時。"
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  },
+  {
+    "id": "93348de5",
+    "timestamp": "2025-11-26T20:25:49.868633",
+    "query": "Y-200 耳機",
+    "product_name": "Y-200 Earbuds",
+    "strategy": "concise",
+    "result": {
+      "product_name": "Y-200 Earbuds",
+      "catchy_title": "Immerse Yourself in Sound with Y-200 Earbuds",
+      "experience_paragraph": "As an outdoor enthusiast, I was thrilled to discover the Y-200 earbuds. On my last camping trip, I found myself surrounded by nature's sounds - birds chirping, water flowing, and leaves rustling. But when it came time to listen to music, I was disappointed with the poor sound quality from my old earbuds. That's when I decided to try the Y-200 earbuds. With their active noise cancellation feature, I could finally enjoy my favorite tunes without distractions. The 40-hour battery life meant I didn't have to worry about running out of power in the middle of a hike or camping trip.",
+      "features_bullets": [
+        "Active noise cancellation for immersive sound",
+        "Up to 40 hours of battery life on a single charge",
+        "Comfortable and lightweight design for all-day wear"
+      ],
+      "semantic_tags": [
+        "outdoor",
+        "camping",
+        "music",
+        "sound quality"
+      ],
+      "qa_pairs": [
+        {
+          "q": "What makes the Y-200 earbuds special?",
+          "a": "The active noise cancellation feature allows you to fully immerse yourself in your music or podcasts, blocking out distractions and ambient noise."
+        },
+        {
+          "q": "How long do the earbuds last on a single charge?",
+          "a": "The Y-200 earbuds have up to 40 hours of battery life on a single charge, making them perfect for long camping trips or travel days."
+        },
+        {
+          "q": "Are the earbuds comfortable to wear?",
+          "a": "Yes, the Y-200 earbuds are designed for comfort and lightweight, making them suitable for all-day wear during outdoor activities or daily commutes."
+        }
+      ]
+    },
+    "user_score": null,
+    "notes": ""
+  }
+]

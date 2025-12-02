@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Feedback",
+  "type": "object",
+  "properties": {
+    "id": {"type": "string", "description": "Unique ID for the feedback/ad text"},
+    "text": {"type": "string", "description": "Ad copy / post text"},
+    "views": {"type": "integer", "minimum": 0},
+    "likes": {"type": "integer", "minimum": 0},
+    "comments": {"type": "integer", "minimum": 0},
+    "timestamp": {"type": "string", "format": "date-time"},
+    "source": {"type": "string", "description": "Platform/source (e.g. threads)"},
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "campaign": {"type": "string"},
+        "tags": {"type": "array", "items": {"type": "string"}},
+        "author": {"type": "string"},
+        "language": {"type": "string"}
+      },
+      "additionalProperties": true
+    },
+    "quality": {
+      "type": "object",
+      "properties": {
+        "is_bot": {"type": "boolean"},
+        "spam_score": {"type": "number"}
+      }
+    }
+  },
+  "required": ["id", "text", "views", "likes", "comments", "timestamp", "source"],
+  "additionalProperties": false
+}
