@@ -1,0 +1,35 @@
+[
+  {
+    "product_name": "Z-500 耳機",
+    "description": "專業級主動降噪耳機",
+    "features": [
+      "40dB 降噪",
+      "50小時續航",
+      "高通透模式"
+    ],
+    "price": "$399",
+    "category": "音頻設備"
+  },
+  {
+    "product_name": "A-100 喇叭",
+    "description": "便攜式藍牙喇叭",
+    "features": [
+      "防水",
+      "24小時續航",
+      "360度環繞聲"
+    ],
+    "price": "$129",
+    "category": "音頻設備"
+  },
+  {
+    "product_name": "B-200 麥克風",
+    "description": "USB 直播麥克風",
+    "features": [
+      "降噪",
+      "彩虹燈效",
+      "一鍵靜音"
+    ],
+    "price": "$79",
+    "category": "音頻設備"
+  }
+]

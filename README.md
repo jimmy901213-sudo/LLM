@@ -25,11 +25,9 @@ Bash
 
     安裝 Python：確保您已安裝 Python 3.9 或更高版本。
 
-    建立虛擬環境（建議）：
-    Bash
+    # if streamlit is installed in the active environment
+streamlit run "C:\Users\alan8\Downloads\ncu\地端端\LLM-main\app.py"
 
-    python -m venv venv
-    source venv/bin/activate  # macOS/Linux
-
-    streamlit run app.py 
+    # OR explicitly via python module (safer inside virtualenv)
+python -m streamlit run "C:\Users\alan8\Downloads\ncu\地端端\LLM-main\app.py"
 完成：您的瀏覽器將自動打開一個新分頁，顯示本地運行的 Web 應用程式。
